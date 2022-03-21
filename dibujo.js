@@ -138,8 +138,8 @@ function SEDD(color)
   }
 }
 
-SEAD("black");
-SEAI("black");
-SEDI("black");
+SEAD("blue");
+SEAI("red");
+SEDI("purple");
 SEDD("black");
 ////////////////////////////////////////////////////////////////////////////////////////////
